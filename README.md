@@ -1,11 +1,7 @@
 <h1 align="center">Tinaani Chimedza</h1>
 
 <p align="center">
-  Software Developer focused on mobile applications, product engineering, and local commerce technology.
-</p>
-
-<p align="center">
-  Building products that help people discover businesses, compare products, and make better purchasing decisions while helping merchants strengthen their digital presence.
+  Software Developer
 </p>
 
 <p align="center">
@@ -70,9 +66,6 @@ A local commerce platform helping consumers discover stores, products, and servi
 
 Community platform connecting students, graduates, and professionals through networking, mentorship, opportunities, and resource sharing.
 
-### EduSphere
-
-School management platform covering academic administration, examinations, timetables, notices, transport, sports, and student management.
 
 ## Stack
 
@@ -91,12 +84,11 @@ School management platform covering academic administration, examinations, timet
 - Supabase
 - PostgreSQL
 - MySQL
-- Firebase
 - Git
+- Github
 
 ### Areas Of Interest
 
-- Product Engineering
 - Mobile Development
 - Cloud Computing
 - System Design
@@ -115,8 +107,3 @@ School management platform covering academic administration, examinations, timet
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-## Current Long-Term Focus
-
-Building technology that improves how consumers interact with businesses across Africa, starting with product discovery, local commerce, and digital business infrastructure.
-
-There is more in the repositories section, but the projects above best represent the direction of my work and the problems I am interested in solving.
