@@ -109,14 +109,13 @@ SaaS prototypes, AI integrations, cloud-powered business apps, authentication sy
 ### GitHub Stats
 
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=chimedzatinaani&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=b7e4c7&icon_color=b7e4c7&text_color=ffffff&border_color=1b4332&rank_icon=github&hide_border=false" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&theme=dark&bg_color=0d1b2a&title_color=b7e4c7&text_color=ffffff&border_color=1b4332&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chimedzatinaani&theme=dark&background=0d1b2a&ring=b7e4c7&fire=f4a261&currStreakLabel=b7e4c7&sideLabels=b7e4c7&border=1b4332" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=chimedzatinaani&show_icons=true&theme=dark&bg_color=0D1F1D&title_color=A3E635&icon_color=A3E635&text_color=ffffff&border_color=114B3E&rank_icon=github&hide_border=false" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&theme=dark&bg_color=0D1F1D&title_color=A3E635&text_color=ffffff&border_color=114B3E&hide_border=false" />
+  
+  <br/><br/>
+  
+  <img width="100%" src="https://github-readme-streak-stats.onrender.com/?user=chimedzatinaani&theme=dark&background=0D1F1D&ring=A3E635&fire=A3E635&currStreakLabel=ffffff&sideLabels=ffffff&border=114B3E" />
 
 <br/><br/>
 
