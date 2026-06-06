@@ -1,134 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tinaani%20Chimedza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Technopreneur&descAlignY=58&descColor=94d2bd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4332&height=180&section=header&text=Tinaani%20Chimedza&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Technopreneur%20%E2%80%A2%20Mutare%2C%20Zimbabwe&descSize=15&descAlignY=62&descColor=b7e4c7" />
 
-<p>
-  <a href="https://tinaanichimedza.co.zw">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=safari&logoColor=94d2bd" />
-  </a>
-  <a href="https://wndwshpr.github.io">
-    <img src="https://img.shields.io/badge/WindowShopper-203a43?style=for-the-badge&logo=shopify&logoColor=94d2bd" />
-  </a>
-  <a href="mailto:tinaanichimedza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2c5364?style=for-the-badge&logo=gmail&logoColor=94d2bd" />
-  </a>
-  <a href="https://linkedin.com/in/tinaanichimedza">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=94d2bd" />
-  </a>
-</p>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=94D2BD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+practical+technology+for+real+people;Founder+%40+WindowShopper+%7C+Based+in+Zimbabwe" alt="Typing SVG" />
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tinaanichimedza.co.zw-1b4332?style=flat-square&logo=safari&logoColor=white)](https://tinaanichimedza.co.zw)
+&nbsp;
+[![WindowShopper](https://img.shields.io/badge/App-WindowShopper-1b4332?style=flat-square&logo=shopify&logoColor=white)](https://wndwshpr.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1b4332?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tinaanichimedza)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-tinaanichimedza%40gmail.com-1b4332?style=flat-square&logo=gmail&logoColor=white)](mailto:tinaanichimedza@gmail.com)
 
 </div>
 
 ---
 
-## Currently Working On
+### About
 
-<table>
-<tr>
-<td width="50%">
+Software developer and entrepreneur building practical technology for real people and local businesses. Based in Mutare, Zimbabwe.
 
-**WindowShopper**
-Scaling Zimbabwe's premier local shopping discovery platform — connecting consumers with local stores and products.
-
-</td>
-<td width="50%">
-
-**Cross-Platform Development**
-Building production Flutter applications, exploring cloud architecture, SaaS models and scalable system design.
-
-</td>
-</tr>
-</table>
+Previously at **FACT Zimbabwe** across Child Protection, M&E, and Management Information Systems. Also built digital platforms for **Africa University** serving students, alumni, and professional communities. Currently focused on scaling **WindowShopper** and exploring SaaS opportunities.
 
 ---
 
-## About Me
+### Currently
 
-Software developer and entrepreneur based in **Mutare, Zimbabwe**.
-
-Previously at **FACT Zimbabwe** across Child Protection, M&E, and Management Information Systems — working with DHIS2, KoboToolbox, and digital record management systems. Also built technology platforms for **Africa University** serving students, alumni, and professional communities.
-
-My approach combines technology, problem-solving and an understanding of people and communities to build products that are genuinely useful.
+| Area | Focus |
+|---|---|
+| Product | Scaling WindowShopper into Zimbabwe's premier local shopping discovery platform |
+| Development | Cross-platform mobile apps with Flutter |
+| Learning | Cloud infrastructure, scalable architecture, performance optimization |
+| Exploring | SaaS models and bootstrapped startup products |
 
 ---
 
-## Tech Stack
-
-<div align="center">
+### Tech Stack
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Platforms**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Data & Information Systems**
 
-<img src="https://img.shields.io/badge/DHIS2-1A73E8?style=flat-square&logo=google-analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/KoboToolbox-EF5350?style=flat-square&logo=kobold&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-
-</div>
+![DHIS2](https://img.shields.io/badge/DHIS2-1A73E8?style=flat-square&logo=google-analytics&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-EF5350?style=flat-square&logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Selected Projects
+### Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### WindowShopper
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+**WindowShopper** &nbsp; ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-A shopping discovery platform enabling users to discover local stores, compare products, build shopping lists, track prices, and access real-time product information.
+Shopping discovery platform connecting consumers with local stores and products in Zimbabwe. Features product catalogs, geolocation discovery, price tracking, and vendor management.
 
-→ [wndwshpr.com](https://wndwshpr.github.io)
+[wndwshpr.com →](https://wndwshpr.github.io)
 
 </td>
 <td width="50%" valign="top">
 
-### AU Social Work Platform
-<img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+**AU Social Work Platform** &nbsp; ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-Digital community platform connecting Africa University Social Work students and alumni through professional networking, mentorship, job opportunities and resource sharing.
+Digital community platform for Africa University Social Work students and alumni. Enables professional networking, mentorship, job postings, events, and resource sharing.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### CPCM Feedback Platform
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+**CPCM Feedback Platform** &nbsp; ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Secure anonymous reporting and feedback platform built for FACT Zimbabwe to improve internal communication and transparency.
+Secure anonymous reporting and feedback system for FACT Zimbabwe to improve internal communication and accountability.
 
 </td>
 <td width="50%" valign="top">
 
-### Experiments & Learning
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
+**Experiments & Prototypes** &nbsp; ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
 
-SaaS prototypes, AI integrations, cloud-powered business apps, authentication systems, and database tooling.
+SaaS prototypes, AI integrations, cloud-powered business apps, authentication systems, and database tooling built while learning and exploring new technologies.
 
 </td>
 </tr>
@@ -136,49 +106,49 @@ SaaS prototypes, AI integrations, cloud-powered business apps, authentication sy
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chimedzatinaani&show_icons=true&theme=dark&bg_color=0f2027&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&border_color=203a43&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&theme=dark&bg_color=0f2027&title_color=94d2bd&text_color=ffffff&border_color=203a43&hide_border=false" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=chimedzatinaani&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=b7e4c7&icon_color=b7e4c7&text_color=ffffff&border_color=1b4332&rank_icon=github&hide_border=false" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&theme=dark&bg_color=0d1b2a&title_color=b7e4c7&text_color=ffffff&border_color=1b4332&hide_border=false" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chimedzatinaani&theme=dark&background=0f2027&ring=94d2bd&fire=ee9b00&currStreakLabel=94d2bd&sideLabels=94d2bd&border=203a43" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chimedzatinaani&theme=dark&background=0d1b2a&ring=b7e4c7&fire=f4a261&currStreakLabel=b7e4c7&sideLabels=b7e4c7&border=1b4332" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimedzatinaani&bg_color=0f2027&color=94d2bd&line=2c5364&point=ee9b00&area=true&area_color=203a43&hide_border=false&border_color=203a43" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimedzatinaani&bg_color=0d1b2a&color=b7e4c7&line=1b4332&point=f4a261&area=true&area_color=1b4332&border_color=1b4332" />
 
 </div>
 
 ---
 
-## Working Style
+### Experience
 
-<div align="center">
+**WindowShopper** — Founder & Developer
+> Mobile app development · Product catalog infrastructure · Store & inventory management · Geolocation discovery · Vendor onboarding · Analytics · Auth & security
 
-<img src="https://img.shields.io/badge/Product--Focused-0f2027?style=for-the-badge&labelColor=203a43&color=94d2bd" />
-<img src="https://img.shields.io/badge/Startup--Minded-0f2027?style=for-the-badge&labelColor=203a43&color=ee9b00" />
-<img src="https://img.shields.io/badge/Rapid%20Prototyping-0f2027?style=for-the-badge&labelColor=203a43&color=94d2bd" />
-<img src="https://img.shields.io/badge/Continuous%20Learning-0f2027?style=for-the-badge&labelColor=203a43&color=ee9b00" />
-<img src="https://img.shields.io/badge/Solution--Oriented-0f2027?style=for-the-badge&labelColor=203a43&color=94d2bd" />
+**FACT Zimbabwe** — MIS, M&E & Child Protection
+> Data management systems · Reporting workflows · Information system administration · Digital record management · Data quality assurance · Monitoring & evaluation
 
-</div>
-
----
-
-## Languages
-
-<img src="https://img.shields.io/badge/English-Native-0f2027?style=flat-square&labelColor=2c5364" />
-<img src="https://img.shields.io/badge/Shona-Native-0f2027?style=flat-square&labelColor=2c5364" />
-<img src="https://img.shields.io/badge/Portuguese-A2-0f2027?style=flat-square&labelColor=2c5364" />
+**Africa University** — Developer
+> Custom web platforms · Digital tools for students, alumni & professional communities
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontSize=16&fontColor=94d2bd" />
+![English](https://img.shields.io/badge/English-Native-0d1b2a?style=flat-square&labelColor=1b4332)
+&nbsp;
+![Shona](https://img.shields.io/badge/Shona-Native-0d1b2a?style=flat-square&labelColor=1b4332)
+&nbsp;
+![Portuguese](https://img.shields.io/badge/Portuguese-A2-0d1b2a?style=flat-square&labelColor=2d6a4f)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:0d1b2a&height=100&section=footer" />
 
 </div>
