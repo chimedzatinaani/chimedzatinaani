@@ -62,10 +62,15 @@ A local commerce platform helping consumers discover stores, products, and servi
 - Product catalog management
 - Mobile commerce
 
-### AU Social Work Platform
+### StAT - Students and Staff Access Terminal
 
-Community platform connecting students, graduates, and professionals through networking, mentorship, opportunities, and resource sharing.
+A unified digital ecosystem developed to streamline campus security, academic operations and internal commerce into a single mobile platform.
 
+**Key areas include:**
+
+- Security Terminal
+- Campus Wallet & POS
+- Attendance Monitoring
 
 ## Stack
 
