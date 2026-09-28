@@ -16,7 +16,7 @@
 
 ## Currently
 
-- Building WindowShopper, a local commerce and product discovery platform
+- Developing and scaling WindowShopper, a local commerce and product discovery platform
 - Developing cross-platform mobile applications with Flutter
 - Exploring cloud architecture, distributed systems, and scalable backend design
 - Learning product growth, startup operations, and SaaS business models
