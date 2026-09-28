@@ -104,11 +104,11 @@ A unified digital ecosystem developed to streamline campus security, academic op
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chimedzatinaani&show_icons=true&count_private=true&bg_color=0D1117&border_radius=10&hide_title=true&text_color=FFFFFF" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chimedzatinaani&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimedzatinaani&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
